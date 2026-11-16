@@ -1,0 +1,6 @@
+{
+  "name": "JustDo",
+  "description": "100% offline smart daily task manager with local AlarmManager reminders, recurring schedules, Pomodoro focus mode, calendar, and productivity analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
